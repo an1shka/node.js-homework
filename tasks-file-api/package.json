@@ -1,0 +1,11 @@
+{
+  "name": "tasks-file-api",
+  "version": "1.0.0",
+  "description": "Учебный API задач с файловым хранилищем",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}

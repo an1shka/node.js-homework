@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "Повторить Node.js",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "title": "Выполнить домашнее задание",
+    "completed": true
+  }
+]
